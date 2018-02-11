@@ -10,3 +10,6 @@ Cheers and some music :)
 Andrew Gentry Remix - Juicy (ft. Emancipator) Remix
 Method Man, 2Pac, Ice Cube, Eazy E - Built For This feat Freddie Gibbs (NEW 2018) [HD]
 
+Git:
+
+* Completed https://guides.github.com/activities/hello-world/
