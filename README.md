@@ -13,3 +13,8 @@ Method Man, 2Pac, Ice Cube, Eazy E - Built For This feat Freddie Gibbs (NEW 2018
 Git:
 
 * Completed https://guides.github.com/activities/hello-world/
+  http://guides.github.com/ + http://youtube.com/githubguides
+  
+  
+  
+  
